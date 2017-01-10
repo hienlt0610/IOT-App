@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Voice"
+        android:icon="@drawable/ic_action_voice"
+        android:id="@+id/ic_act_voice"
+        app:showAsAction="always" />
+</menu>
